@@ -1,0 +1,5 @@
+#Ignore o os modulos do node
+node_modules
+
+#Ignore as configuraçãoes de token
+*config.json
